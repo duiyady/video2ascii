@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="video2asciiv:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/video2asciiv_jar2</output-path>
+    <root id="archive" name="video2asciiv.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="video2asciiv" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/customizer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/Jim2mov.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/jmf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/mediaplayer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/multiplayer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jar/sound.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

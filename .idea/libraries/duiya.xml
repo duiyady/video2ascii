@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="duiya">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar/customizer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/Jim2mov.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/jmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/mediaplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/multiplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar/sound.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
